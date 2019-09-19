@@ -1,5 +1,5 @@
 /*
- * Bill Nicholson
+ * Alex Willenborg
  * nicholdw@ucmail.uc.edu
  * Printing pyramids using loops. It kind-of works. 
  * What I really want is
@@ -9,7 +9,7 @@
      4444444
     555555555 
 */
-package main;
+package main; 
 
 public class Main {
 
