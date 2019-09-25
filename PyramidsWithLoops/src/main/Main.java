@@ -1,13 +1,10 @@
 /*
  * Alex Willenborg
  * willenaj@mail.uc.edu
- * Printing pyramids using loops. It kind-of works. 
- * What I really want is
-        1
-       222
-      33333
-     4444444
-    555555555 
+ * Assignment 04
+ * 9/26/19
+ * Pyramids with loops
+
 */
 package main; 
 
